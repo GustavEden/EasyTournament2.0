@@ -169,3 +169,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.idea/EasyTournament2.0.iml
+*.xml
