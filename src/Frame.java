@@ -5,4 +5,6 @@ public class Frame {
 
     // Hej mamma
     // Och pappa
+    // Gustav är här
+    // Inte joel
 }
